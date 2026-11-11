@@ -116,24 +116,17 @@ motto:       "Understand the attack. Build the defence."
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChaniduRathnayake&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00d4aa&icon_color=00d4aa" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaniduRathnayake&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=00d4aa" alt="top languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaniduRathnayake&theme=tokyonight" alt="profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChaniduRathnayake&hide_border=true&theme=tokyonight&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaniduRathnayake&theme=tokyonight" alt="stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaniduRathnayake&theme=tokyonight" alt="most commit language"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChaniduRathnayake&hide_border=true&bg_color=1a1b27&color=c0caf5&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" alt="activity graph"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaniduRathnayake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaniduRathnayake&theme=tokyonight" alt="repos per language"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=ChaniduRathnayake&hide_border=true&theme=tokyonight&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="streak"/>
 </p>
 
 ---
